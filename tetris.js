@@ -1,4 +1,7 @@
 'use strict';
+// List a puce avec tetrominos box
+
+// Tetris
 
 var canvas = document.getElementById("tetris");
 var context = canvas.getContext("2d");
